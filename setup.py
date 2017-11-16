@@ -8,11 +8,11 @@ def readme():
 setup(
     name='GenomeInstall',
     description='Download genomes and compile BLAST DBs',
-    #url='https://genev.unige.ch/research/laboratory/Juan-Montoya',
+    #url=...,
     author='Joel Tuberosa',
     author_email='joel.tuberosa@unige.ch',
     license='GNU',
-    #scripts=['script/psgfinder.py'],
+    #scripts=['script/get_genome.py'],
     packages=['genome_install'],
     platforms=['any'],
     version='1.0.a1',
